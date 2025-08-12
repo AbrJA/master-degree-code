@@ -21,7 +21,7 @@ int main() {
         b  += Y[i];
     }
 
-    printf("Final weights:\n");
+    printf("Pesos finales:\n");
     printf("W1 = %d\n", W1);
     printf("W2 = %d\n", W2);
     printf("b  = %d\n", b);
